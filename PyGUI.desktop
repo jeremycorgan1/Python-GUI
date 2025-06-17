@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Your PyGUI
+Comment=Python GUI
+Exec=/home/oem/myenv/bin/python3 /home/oem/PyGUI/project_runner_gui.py
+Icon=/home/oem/PyGUI/PyGUI.png
+Terminal=false
+Type=Application
+Categories=Utility;
+Name[en_US]=PyGUI
